@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key><string>dev.local.SonyControl</string>
+    <key>CFBundleName</key><string>SonyControl</string>
+    <key>CFBundleExecutable</key><string>SonyControl</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSBluetoothAlwaysUsageDescription</key><string>SonyControl talks to your Sony earbuds to switch noise cancelling and ambient sound.</string>
+</dict>
+</plist>
